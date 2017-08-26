@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include "CoreMinimal.h"
+
 #include "GameFramework/Actor.h"
 #include "Camera/CameraActor.h"
 #include "Engine/TextureRenderTarget2D.h"

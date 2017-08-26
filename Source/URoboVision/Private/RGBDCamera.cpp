@@ -3,6 +3,7 @@
 #include "RGBDCamera.h"
 #include "Components/SceneCaptureComponent2D.h"
 #include "Camera/CameraComponent.h"
+#include "Runtime/Engine/Classes/Engine/StaticMesh.h"
 #include "ConstructorHelpers.h"
 #include "EngineUtils.h"
 #include "StopTime.h"
